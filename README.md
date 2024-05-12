@@ -70,7 +70,7 @@ while True:
     conn.close()
 ```
 
-## OUPUT
+## OUTPUT
 ![328116294-a48baf6c-284c-4b24-bcbc-0f062d9e8def](https://github.com/poojaanbu0/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/119390329/ec3b4c39-7d16-4b4e-bc11-bd1aa593adee)
 
 ## RESULT
